@@ -1,0 +1,49 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+url:              http://oliverafajardo.com
+
+# Set to '' in case of hosting on `http://<your-github-name>.github.io`
+baseurl:          /hydejack
+
+title:            Oliver Fajardo
+
+# Markdown enabled, however don't use more than one paragraph (enforced by `>`)
+description:      >
+  A pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by [`@qwtel`](https://twitter.com/qwtel)
+  from [Hyde](http://hyde.getpoole.com).
+  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
+
+# The tags listed as entries in the sidebar
+sidebar_tags:     [jekyll, hyde]
+
+# Fallback image and color if not overwritten for tag or post
+image:            /hydejack/public/img/nap.jpg
+color:            '#A85641'
+
+author:
+  name:           'Oliver Fajardo'
+
+  # Setting social media usernames will add icons at the bottom of the sidebar
+  twitter:        oliverafajardo
+  github:         oliverafajardo
+
+  # Setting a disqus username will enable the comment section
+  disqus:         oliverafajardo
+
+  # This photo will be used in the about section
+  photo:          http://oliverfajardo.com/public/img/flo.jpg
+
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:          |
+    Hi, I'm Oliver..........
+
+
+    Read my thoughts on [#software](http://oliverfajardo.com/tag/software) and [#life](http://oliverfajardo.com/tag/life).
+
+
+kramdown:
+  math_engine: mathjax
+  math_engine_opts:
+    preview: true
