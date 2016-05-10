@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Hydejack</title>
- <link href="http://oliverafajardo.com/hydejack/atom.xml" rel="self"/>
- <link href="http://oliverafajardo.com/hydejack/"/>
- <updated>2016-05-09T23:19:19-07:00</updated>
+ <title>Oliver Fajardo</title>
+ <link href="http://oliverafajardo.com/atom.xml" rel="self"/>
+ <link href="http://oliverafajardo.com/"/>
+ <updated>2016-05-09T23:38:02-07:00</updated>
  <id>http://oliverafajardo.com</id>
  <author>
    <name>Oliver Fajardo</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>The Allure Of Programming Abstractions</title>
-   <link href="http://oliverafajardo.com/hydejack/2016/05/09/the-alure-of-programming-abstractions/"/>
+   <link href="http://oliverafajardo.com/2016/05/09/the-alure-of-programming-abstractions/"/>
    <updated>2016-05-09T00:00:00-07:00</updated>
    <id>http://oliverafajardo.com/2016/05/09/the-alure-of-programming-abstractions</id>
    <content type="html">&lt;h3 id=&quot;hello-world&quot;&gt;Hello World&lt;/h3&gt;
